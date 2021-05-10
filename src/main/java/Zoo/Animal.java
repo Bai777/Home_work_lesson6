@@ -11,5 +11,4 @@ public abstract class Animal {
 
     protected void run(int length){}
     protected void swim(int length){}
-
 }

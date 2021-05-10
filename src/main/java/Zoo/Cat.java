@@ -8,7 +8,6 @@ public class Cat extends Animal{
         Main.printCallerCounter(callerCounter, NAME);
     }
 
-
     @Override
     protected void run(int length) {
         super.run(length);
