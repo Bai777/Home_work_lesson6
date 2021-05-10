@@ -24,6 +24,7 @@ public class Main {
 //            if (animal instanceof Dog)((Dog) animal).swim(9);
 //        }
 
+
     }
     public static void printCallerCounter(int callerCounter, String NAME){
         System.out.printf("Создано: %d, %s\n", callerCounter, NAME);
